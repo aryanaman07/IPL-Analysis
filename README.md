@@ -1,6 +1,3 @@
-# IPL-Analysis
-
-
 # **🏏 IPL Data Analysis**  
 
 ## **📌 Introduction**  
@@ -26,8 +23,8 @@ The objective of this project is to:
 - **All dataset files** are included within this project repository.  
 
 ### 📂 The dataset consists of two files:  
-1️⃣ **`matches.csv`** – Contains IPL match details (season, teams, results, captains, umpires, etc.).  
-2️⃣ **`deliveries.csv`** – Provides ball-by-ball details of IPL matches (batsman, bowler, runs, wickets, etc.).  
+1️⃣ **`matches.csv`** – Contains IPL match details (season, teams, result, venue, umpires, etc.).  
+2️⃣ **`deliveries.csv`** – Provides ball-by-ball details of IPL matches (batter, bowler, runs, wickets, etc.).  
 
 ---
 
@@ -68,7 +65,7 @@ This analysis serves as a **valuable resource** for cricket enthusiasts, analyst
 ## **📌 Author**  
 👨‍💻 **Aryan Aman (Data Science Enthusiast)**  
 
-🔗 **LinkedIn Profile:** [Aryan Aman](#) *(Replace with actual link)*  
+🔗 **LinkedIn Profile:** https://www.linkedin.com/in/aryan-aman-b3334b270/
 
 ---
 
